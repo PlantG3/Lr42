@@ -1,5 +1,4 @@
-setwd("/bulk/liu3zhen/research/projects/Lr42/qRT_PCR/VIGS")
-
+setwd(".")
 # install if not a package has not installed yet
 list.of.packages <- c("dplyr", "multcompView")
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
@@ -10,7 +9,7 @@ library(dplyr)
 library(multcompView)
 
 # data path
-datapath <- "/bulk/liu3zhen/research/projects/Lr42/qRT_PCR/VIGS/"
+datapath <- "./Lr42/qRT_PCR/VIGS/"
 d <- read.delim(paste0(datapath, "/qRTPCR_VIGS.txt"), stringsAsFactors=F)
 ### expression formula
 #100 x 2^(Cp-rl - Cp-GOI)

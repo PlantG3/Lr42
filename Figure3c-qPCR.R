@@ -1,10 +1,9 @@
-setwd("/bulk/liu3zhen/research/projects/Lr42/qRT_PCR/native_transgene/")
-
+setwd(".")
 library(dplyr)
 #install.packages("multcompView")
 library(multcompView)
 
-datapath <- "/bulk/liu3zhen/research/projects/Lr42/qRT_PCR/native_transgene/"
+datapath <- "./Lr42/qRT_PCR/native_transgene/"
 d <- read.delim(paste0(datapath, "/qRTPCR10012021.txt"), stringsAsFactors=F)
 ### expression formula
 #100 x 2^(Cp-actin - Cp-GOI)

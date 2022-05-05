@@ -1,0 +1,19 @@
+seg63   BdChr2  1554282 1556991 color=spectral-4-div-4
+seg63   Lr42    1       2715    color=spectral-4-div-4
+seg1    Lr42    1       2763    color=spectral-4-div-2
+seg1    AetChr1D        858649  861427  color=spectral-4-div-2
+seg2    Lr42    1       2763    color=spectral-4-div-3
+seg2    AetChr1D        1       2790    color=spectral-4-div-3
+seg3    Lr42    1       2763    color=spectral-4-div-3
+seg3    AetChr1D        283964  286741  color=spectral-4-div-3
+seg4    AetChr1D        9123    11900   color=spectral-4-div-4
+seg4    Lr42    1       2763    color=spectral-4-div-4
+seg5    AetChr1D        869613  871135  color=spectral-4-div-2
+seg5    Lr42    1       1523    color=spectral-4-div-2
+seg6    AetChr1D        233593  235980  color=spectral-4-div-4
+seg6    Lr42    366     2763    color=spectral-4-div-4
+seg7    AetChr1D        823496  824601  color=spectral-4-div-3
+seg7    Lr42    820     1930    color=spectral-4-div-3
+seg8    Lr42    932     2090    color=spectral-4-div-4
+seg8    AetChr1D        522064  523214  color=spectral-4-div-4
+

@@ -1,0 +1,11 @@
+<links>
+
+<link>
+file =../data/2i-Lr42.cluster.connection.lines.test.txt
+bezier_radius = 0.5r
+radius = 0.84r
+thickness = 4p
+</link>
+
+</links>
+
